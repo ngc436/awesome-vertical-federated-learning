@@ -3,11 +3,11 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
-- [Frameworks and Libraries with VFL support][#frameworks-and-libraries]
+- [Frameworks and Libraries with VFL support](#frameworks-and-libraries)
   - [Flower](#flower-framework)
   - [FATE](#fate)
   - 
-- 
+- [Publications in Top-tier Conferences](#top-tier-conf)
 
 <a name="datasets"></a>
 ### Datasets
@@ -23,3 +23,9 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 <a name="fate"></a>
 #### FATE
 * FATE description
+
+<a name="top-tier-conf"></a>
+## Publications in Top-tier Conferences
+
+| Title | Team/Authors | Year | Conference | Descriptiom |
+|---|---|---|---|---|
