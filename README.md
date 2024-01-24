@@ -31,9 +31,9 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 <a name="vfl-datasets"></a>
 ## VFL Datasets
-| Type | Dataset | Papers |
-|---|---|---|
-|Native| - | - |
+| Type | Dataset | Modality | Papers |
+|---|---|---|---|
+|Native| NUS-WIDE | Image | - |
 
 <a name="frameworks-and-libraries"></a>
 ## Frameworks and Libraries with VFL support
