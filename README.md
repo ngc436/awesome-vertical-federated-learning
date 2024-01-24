@@ -30,6 +30,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | Title | Year | Conference | Description |
 |---|---|---|---|
 | VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks | 2024 | ICLR | --- |
+| VFLAIR: A Research Library and Benchmark for Vertical Federated Learning | 2024 | ICLR | [link to repository](https://github.com/flair-thu/vflair) |
 | The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems | 2022 | | [link to repository](https://github.com/Xtra-Computing/OARF?tab=readme-ov-file#the-oarf-benchmark-suite-characterization-and-implications-for-federated-learning-systems) |
 
 ### VFL methods
