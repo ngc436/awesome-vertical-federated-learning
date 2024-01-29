@@ -6,6 +6,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 - [Publications in Top-tier Conferences](#top-tier-conf)
   - [VFL benchmarks (benchmarks with VFL tasks)](#vfl-bench)
   - [VFL methods](#vfl-methods)
+  - [VFL privacy](#vfl-privacy)
 - [VFL Datasets](#vfl-datasets)
 - [Frameworks and Libraries with VFL support](#frameworks-and-libraries)
   - [Flower](#flower-framework)
@@ -27,13 +28,18 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | Title | Year | Conference / Journal | Description |
 |---|---|---|---|
 
-###
+<a name="vfl-privacy"></a>
+### VFL privacy
+| Title | Year | Conference / Journal | Description |
+|---|---|---|---|
 
 <a name="vfl-datasets"></a>
 ## VFL Datasets
 | Type | Dataset | Modality | Papers |
 |---|---|---|---|
 |  | NUS-WIDE | Image | - |
+
+
 
 <a name="frameworks-and-libraries"></a>
 ## Frameworks and Libraries with VFL support
