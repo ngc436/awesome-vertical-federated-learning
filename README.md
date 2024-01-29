@@ -26,8 +26,9 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 <a name="vfl-methods"></a>
 ### VFL methods
-| Title | Year | Conference / Journal | Description |
-|---|---|---|---|
+| Title | Year | Conference / Journal | Algorithms | Description |
+|---|---|---|---|---|
+
 
 <a name="vfl-privacy"></a>
 ### VFL privacy
