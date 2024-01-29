@@ -7,6 +7,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
   - [VFL benchmarks (benchmarks with VFL tasks)](#vfl-bench)
   - [VFL methods](#vfl-methods)
   - [VFL privacy](#vfl-privacy)
+  - [VFL metrics](#vfl-metric)
 - [VFL Datasets](#vfl-datasets)
 - [Frameworks and Libraries with VFL support](#frameworks-and-libraries)
   - [Flower](#flower-framework)
@@ -32,6 +33,11 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 ### VFL privacy
 | Title | Year | Conference / Journal | Description |
 |---|---|---|---|
+
+<a name="vfl-metric"></a>
+### VFL metrics
+| Title | Year | Conference / Journal | Description |
+| Fair and Efficient Contribution Valuation for Vertical Federated Learning | 2024 | ICLR | Clients' contribution valuation metric - vertical federated Shapley value (VerFedSV) |
 
 <a name="vfl-datasets"></a>
 ## VFL Datasets
