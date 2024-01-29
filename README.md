@@ -37,6 +37,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 <a name="vfl-metric"></a>
 ### VFL metrics
 | Title | Year | Conference / Journal | Description |
+|---|---|---|---|
 | Fair and Efficient Contribution Valuation for Vertical Federated Learning | 2024 | ICLR | Clients' contribution valuation metric - vertical federated Shapley value (VerFedSV) |
 
 <a name="vfl-datasets"></a>
