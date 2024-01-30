@@ -35,7 +35,9 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | C-VFL | NN | Split-based | [Compressed-VFL: Communication-efficient learning with vertically partitioned data](https://proceedings.mlr.press/v162/castiglia22a/castiglia22a.pdf) | [Code](https://github.com/timcast725/C-VFL) | 2022 | ICML |
 | BlindFL | NN | Split-based | [Vertical federated machine learning without peeking into your data](https://dl.acm.org/doi/abs/10.1145/3514221.3526127) | - | 2022 | SIGMOD |
 | FedOnce | NN | Split-based |  [Practical vertical federated learning with unsupervised representation learning](https://www.computer.org/csdl/journal/bd/5555/01/09789268/1DZ7SAQydO0) | [Code](https://github.com/JerryLife/FedOnce) | 2022 | IEEE Transactions on Big Data |
-| SecureBoost | GBDT | Split-based |  [Secureboost: A lossless federated learning framework](https://www.computer.org/csdl/magazine/ex/2021/06/09440789/1tTpiuHh3zi) | 2021 | IEEE Intelligent Systems |
+| SecureBoost | GBDT | Split-based |  [Secureboost: A lossless federated learning framework](https://www.computer.org/csdl/magazine/ex/2021/06/09440789/1tTpiuHh3zi) | - | 2021 | IEEE Intelligent Systems |
+| Pivot | GBDT | Split-based |  [Privacy preserving vertical federated learning for tree-based models](https://dl.acm.org/doi/10.14778/3407790.3407811) | [Code](https://github.com/nusdbsystem/pivot) | 2020 | VLDB |
+| FedTree | GBDT | Split-based |  [Fedtree: A federated learning system for trees](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3430e7055936cb8e26451ed49fce84a6-Abstract-mlsys2023.html) | [Code](https://github.com/Xtra-Computing/FedTree) | 2023 | MLSyS |
 
 
 
