@@ -10,7 +10,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
   - [VFL privacy](#vfl-privacy)
   - [VFL feature importance estimation](#vfl-feature-imp)
   - [VFL metrics](#vfl-metric)
-- [VFL Datasets](#vfl-datasets)
+- [VFL Datasets (or datasets that are used in benchmarks)](#vfl-datasets)
 - [Frameworks and Libraries with VFL support](#frameworks-and-libraries)
   - [Flower](#flower-framework)
   - [FATE](#fate)
@@ -57,7 +57,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 |---|---|---|---|
 
 <a name="vfl-feature-imp"></a>
-### VFL metrics
+### VFL feature importance estimation
 | Title | Year | Conference / Journal | Description |
 |---|---|---|---|
 | Fair and Efficient Contribution Valuation for Vertical Federated Learning | 2024 | ICLR | Clients' contribution valuation metric - vertical federated Shapley value (VerFedSV) |
@@ -69,11 +69,15 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | Fair and Efficient Contribution Valuation for Vertical Federated Learning | 2024 | ICLR | Clients' contribution valuation metric - vertical federated Shapley value (VerFedSV) |
 
 <a name="vfl-datasets"></a>
-## VFL Datasets
+## VFL Datasets (or datasets that are used in benchmarks)
 | Type | Dataset | Modality | Link | Paper |
 |---|---|---|---| --- |
 |  | NUS-WIDE | Image | - | - |
-|  | FedAds | | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning (SIGIR'23) |
+| VFL-native | FedAds | | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning (SIGIR'23) |
+| | MNIST | | |
+| | CIFAR10 | | Image | | Learning multiple layers of features from tiny images |
+| | 
+
 
 
 
