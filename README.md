@@ -26,13 +26,13 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 <a name="vfl-bench"></a>
 ### VFL benchmarks (benchmarks with VFL tasks)
-| Title | Year | Conference | Links | Description |
-|---|---|---|---|---|
-| VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks | 2024 | ICLR | --- | --- |
-| VFLAIR: A Research Library and Benchmark for Vertical Federated Learning | 2024 | ICLR | [Code](https://github.com/flair-thu/vflair) | --- |
-| [FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning](https://arxiv.org/pdf/2305.08328.pdf) | 2023 | SIGIR | [Code](https://github.com/alibaba/Elastic-Federated-Learning-Solution/tree/FedAds) | --- |
-| The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems | 2022 | | [Code](https://github.com/Xtra-Computing/OARF?tab=readme-ov-file#the-oarf-benchmark-suite-characterization-and-implications-for-federated-learning-systems) | --- |
-| [Fedml: A research library and benchmark for federated machine learning](https://arxiv.org/abs/2007.13518) | 2020 | arxiv | [Code](https://github.com/FedML-AI/FedML/) | 
+| Bench Type | Title | Year | Conference | Links | Description |
+|---|---|---|---|---|---|
+| VFL | VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks | 2024 | ICLR | --- | --- |
+| VFL | VFLAIR: A Research Library and Benchmark for Vertical Federated Learning | 2024 | ICLR | [Code](https://github.com/flair-thu/vflair) | --- |
+| VFL | [FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning](https://arxiv.org/pdf/2305.08328.pdf) | 2023 | SIGIR | [Code](https://github.com/alibaba/Elastic-Federated-Learning-Solution/tree/FedAds) | --- |
+| General | The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems | 2022 | | [Code](https://github.com/Xtra-Computing/OARF?tab=readme-ov-file#the-oarf-benchmark-suite-characterization-and-implications-for-federated-learning-systems) | --- |
+| General | [Fedml: A research library and benchmark for federated machine learning](https://arxiv.org/abs/2007.13518) | 2020 | arxiv | [Code](https://github.com/FedML-AI/FedML/) | 
 
 <a name="vfl-algo"></a>
 ### VFL algorithms
