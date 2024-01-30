@@ -14,7 +14,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 - [Frameworks and Libraries with VFL support](#frameworks-and-libraries)
   - [Flower](#flower-framework)
   - [FATE](#fate)
-  - 
+  - [Falcon](#falcon)
 
 <a name="top-tier-conf"></a>
 ## Publications in Top-tier Conferences (or influential)
@@ -47,6 +47,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | Pivot | GBDT | Split-based |  [Privacy preserving vertical federated learning for tree-based models](https://dl.acm.org/doi/10.14778/3407790.3407811) | [Code](https://github.com/nusdbsystem/pivot) | 2020 | VLDB |
 | FedTree | GBDT | Split-based |  [Fedtree: A federated learning system for trees](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3430e7055936cb8e26451ed49fce84a6-Abstract-mlsys2023.html) | [Code](https://github.com/Xtra-Computing/FedTree) | 2023 | MLSyS |
 | VF2Boost | GBDT | Split-based |  [Vf2boost: Very fast vertical federated gradient boosting for cross-enterprise learning](https://dl.acm.org/doi/10.1145/3448016.3457241) | - | 2021 | SIGMOD |
+| OpBoost | GBDT | Split-based | [OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization](https://dl.acm.org/doi/10.14778/3565816.3565823) | | 2023 | VLDB |
 | Fed-Forest  | RF | Split-based |  [Federated forest](https://www.computer.org/csdl/journal/bd/2022/03/09088965/1jDwbNBWHWE) | - | 2020 | IEEE Transactions on Big Data |
 
 
@@ -56,6 +57,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | Title | Year | Conference / Journal | Description |
 | [Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599475) | 2023 | KDD |---|
 | [A Unified Solution for Privacy and Communication Efficiency in Vertical Federated Learning](https://openreview.net/pdf?id=AYiRHZirD2) | 2023 | Neurips | --- |
+| [Differentially Private Vertical Federated Clustering](https://dl.acm.org/doi/abs/10.14778/3583140.3583146) | 2023 | VLDB | --- |
 
 <a name="vfl-feature-imp"></a>
 ### VFL feature importance estimation
@@ -92,3 +94,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 <a name="fate"></a>
 #### FATE
 * FATE description
+
+<a name="falcon"></a>
+#### Falcon
+https://github.com/nusdbsystem/falcon
