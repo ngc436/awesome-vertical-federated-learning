@@ -11,8 +11,10 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
   - [VFL metrics / feature importance estimation](#vfl-feature-imp)
 - [VFL Datasets (or datasets that are used in benchmarks)](#vfl-datasets)
 - [Frameworks and Libraries with VFL support](#frameworks-and-libraries)
-  - [Flower](#flower-framework)
   - [FATE](#fate)
+  - [FedML](#fedml)
+  - [Fedlearner](#fedlearner)
+  - [FederatedScope](#federatedscope)
   - [Falcon](#falcon)
 
 <a name="top-tier-conf"></a>
@@ -84,10 +86,6 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 <a name="frameworks-and-libraries"></a>
 ## Frameworks and Libraries with VFL support
-
-<a name="flower-framework"></a>
-#### Flower
-* Flower description
 
 <a name="fate"></a>
 #### FATE
