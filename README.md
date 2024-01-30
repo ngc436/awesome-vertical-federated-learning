@@ -69,13 +69,15 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 <a name="vfl-datasets"></a>
 ## VFL Datasets (or datasets that are used in benchmarks)
-| Type | Dataset | Modality | Link | Paper |
+| Type | Dataset | Modality | Link | Benchmark |
 |---|---|---|---| --- |
 |  | NUS-WIDE | Image | - | - |
-| VFL-native | FedAds | | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning (SIGIR'23) |
+| VFL-native | FedAds | | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds |
 | | MNIST | | |
-| | CIFAR10 | | Image | | Learning multiple layers of features from tiny images |
-| | 
+| | CIFAR10 | Image | | Learning multiple layers of features from tiny images |
+| | Breast histopathology images |  Image | [Link](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) | FedAds |
+| | Yahoo answers dataset | Text | [Link](https://www.kaggle.com/datasets/soumikrakshit/yahoo-answers-dataset) | FedAds |
+| | Give Me Some Credit | Tabilar | [link](https://www.kaggle.com/c/GiveMeSomeCredit) | FedAds |
 
 
 
