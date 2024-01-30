@@ -4,6 +4,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
 - [Publications in Top-tier Conferences](#top-tier-conf)
+  - [Surveys on VFL](#vfl-surv)
   - [VFL benchmarks (benchmarks with VFL tasks)](#vfl-bench)
   - [VFL algorithms](#vfl-algo)
   - [VFL privacy](#vfl-privacy)
@@ -16,7 +17,14 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
   - 
 
 <a name="top-tier-conf"></a>
-## Publications in Top-tier Conferences
+## Publications in Top-tier Conferences (or influential)
+
+<a name="vfl-surv"></a>
+### VFL surveys
+| Title | Year | Conference / Journal | Description |
+|---|---|---|---|
+| [Vertical Federated Learning: Concepts, Advances and Challenges](https://arxiv.org/abs/2211.12814) | 2023 | Arxiv | |
+
 <a name="vfl-bench"></a>
 ### VFL benchmarks (benchmarks with VFL tasks)
 | Title | Year | Conference | Links | Description |
