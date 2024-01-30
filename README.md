@@ -8,8 +8,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
   - [VFL benchmarks (benchmarks with VFL tasks)](#vfl-bench)
   - [VFL algorithms](#vfl-algo)
   - [VFL privacy](#vfl-privacy)
-  - [VFL feature importance estimation](#vfl-feature-imp)
-  - [VFL metrics](#vfl-metric)
+  - [VFL metrics / feature importance estimation](#vfl-feature-imp)
 - [VFL Datasets (or datasets that are used in benchmarks)](#vfl-datasets)
 - [Frameworks and Libraries with VFL support](#frameworks-and-libraries)
   - [Flower](#flower-framework)
@@ -61,13 +60,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | [Differentially Private Vertical Federated Clustering](https://dl.acm.org/doi/abs/10.14778/3583140.3583146) | 2023 | VLDB | --- |
 
 <a name="vfl-feature-imp"></a>
-### VFL feature importance estimation
-| Title | Year | Conference / Journal | Description |
-|---|---|---|---|
-| Fair and Efficient Contribution Valuation for Vertical Federated Learning | 2024 | ICLR | Clients' contribution valuation metric - vertical federated Shapley value (VerFedSV) |
-
-<a name="vfl-metric"></a>
-### VFL metrics
+### VFL metrics / feature importance estimation
 | Title | Year | Conference / Journal | Description |
 |---|---|---|---|
 | Fair and Efficient Contribution Valuation for Vertical Federated Learning | 2024 | ICLR | Clients' contribution valuation metric - vertical federated Shapley value (VerFedSV) |
