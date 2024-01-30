@@ -27,11 +27,16 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 <a name="vfl-algo"></a>
 ### VFL algorithms
-| Algorithm | Model | Category | Title | Year | Conference / Journal | Description |
-|---|---|---|---|---|---|---|
-| AL | Any | Ensemble-based | Assisted learning: A framework for multiorganization learning | Neurips'20 |
-| GAL | Any | Ensemble-based | Gal: Gradient assisted learning for decentralized multi-organization collaborations | Neurips'22 |
-| SplitNN | NN | Split-based | Split learning for health: Distributed deep learning without sharing raw patient data | Arxiv'18 |
+| Algorithm | Model | Category | Title | Year | Conference / Journal |
+|---|---|---|---|---|---|
+| AL | Any | Ensemble-based | Assisted learning: A framework for multiorganization learning | 2020 | Neurips |
+| GAL | Any | Ensemble-based | Gal: Gradient assisted learning for decentralized multi-organization collaborations | 2022 | Neurips |
+| SplitNN | NN | Split-based | Split learning for health: Distributed deep learning without sharing raw patient data | 2018 | Arxiv |
+| C-VFL | NN | Split-based | Compressed-VFL: Communication-efficient learning with vertically partitioned data | 2022 | PMLR |
+| BlindFL | NN | Split-based | Vertical federated machine learning without peeking into your data | 2022 | SIGMOD |
+| FedOnce | NN | Split-based |  Practical vertical federated learning with unsupervised representation learning | 2022 | IEEE Transactions on Big Data |
+| SecureBoost | GBDT | Split-based |  Secureboost: A lossless federated learning framework | 2021 | IEEE Intelligent Systems |
+
 
 
 <a name="vfl-privacy"></a>
