@@ -27,14 +27,14 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 <a name="vfl-algo"></a>
 ### VFL algorithms
-| Algorithm | Model | Category | Title | Year | Conference / Journal |
-|---|---|---|---|---|---|
-| AL | Any | Ensemble-based | Assisted learning: A framework for multiorganization learning | 2020 | Neurips |
-| GAL | Any | Ensemble-based | Gal: Gradient assisted learning for decentralized multi-organization collaborations | 2022 | Neurips |
-| SplitNN | NN | Split-based | Split learning for health: Distributed deep learning without sharing raw patient data | 2018 | Arxiv |
-| C-VFL | NN | Split-based | Compressed-VFL: Communication-efficient learning with vertically partitioned data | 2022 | PMLR |
-| BlindFL | NN | Split-based | Vertical federated machine learning without peeking into your data | 2022 | SIGMOD |
-| FedOnce | NN | Split-based |  Practical vertical federated learning with unsupervised representation learning | 2022 | IEEE Transactions on Big Data |
+| Algorithm | Model | Category | Title | Code | Year | Conference / Journal |
+|---|---|---|---|---|---|---|
+| AL | Any | Ensemble-based | [Assisted learning: A framework for multiorganization learning](https://proceedings.neurips.cc/paper/2020/file/a7b23e6eefbe6cf04b8e62a6f0915550-Paper.pdf) | - | 2020 | Neurips |
+| GAL | Any | Ensemble-based | [Gal: Gradient assisted learning for decentralized multi-organization collaborations](https://proceedings.neurips.cc/paper_files/paper/2022/file/4d6938f94ab47d32128c239a4bfedae0-Paper-Conference.pdf) | [Code](https://github.com/diaoenmao/GAL-Gradient-Assisted-Learning-for-Decentralized-Multi-Organization-Collaborations) | 2022 | Neurips |
+| SplitNN | NN | Split-based | [Split learning for health: Distributed deep learning without sharing raw patient data](https://arxiv.org/abs/1812.00564) | - | 2018 | Arxiv |
+| C-VFL | NN | Split-based | [Compressed-VFL: Communication-efficient learning with vertically partitioned data](https://proceedings.mlr.press/v162/castiglia22a/castiglia22a.pdf) | [Code](https://github.com/timcast725/C-VFL) | 2022 | ICML |
+| BlindFL | NN | Split-based | [Vertical federated machine learning without peeking into your data](https://dl.acm.org/doi/abs/10.1145/3514221.3526127) | - | 2022 | SIGMOD |
+| FedOnce | NN | Split-based |  [Practical vertical federated learning with unsupervised representation learning](https://www.computer.org/csdl/journal/bd/5555/01/09789268/1DZ7SAQydO0) | [Code](https://github.com/JerryLife/FedOnce) | 2022 | IEEE Transactions on Big Data |
 | SecureBoost | GBDT | Split-based |  [Secureboost: A lossless federated learning framework](https://www.computer.org/csdl/magazine/ex/2021/06/09440789/1tTpiuHh3zi) | 2021 | IEEE Intelligent Systems |
 
 
