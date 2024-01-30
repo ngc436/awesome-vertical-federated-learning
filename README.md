@@ -54,7 +54,8 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 <a name="vfl-privacy"></a>
 ### VFL privacy
 | Title | Year | Conference / Journal | Description |
-|---|---|---|---|
+| [Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599475) | 2023 | KDD |---|
+| [A Unified Solution for Privacy and Communication Efficiency in Vertical Federated Learning](https://openreview.net/pdf?id=AYiRHZirD2) | 2023 | Neurips | --- |
 
 <a name="vfl-feature-imp"></a>
 ### VFL feature importance estimation
