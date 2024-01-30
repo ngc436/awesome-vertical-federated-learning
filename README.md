@@ -20,7 +20,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 ## Publications in Top-tier Conferences (or influential)
 
 <a name="vfl-surv"></a>
-### VFL surveys
+### Surveys on VFL
 | Title | Year | Conference / Journal | Description |
 |---|---|---|---|
 | [Vertical Federated Learning: Concepts, Advances and Challenges](https://arxiv.org/abs/2211.12814) | 2023 | Arxiv | |
