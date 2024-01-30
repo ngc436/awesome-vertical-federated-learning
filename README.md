@@ -16,6 +16,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
   - [Fedlearner](#fedlearner)
   - [FederatedScope](#federatedscope)
   - [Falcon](#falcon)
+  - [PyVertical](#pyvertical)
 
 <a name="top-tier-conf"></a>
 ## Publications in Top-tier Conferences (or influential)
