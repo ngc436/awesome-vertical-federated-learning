@@ -43,9 +43,10 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 <a name="vfl-datasets"></a>
 ## VFL Datasets
-| Type | Dataset | Modality | Papers |
-|---|---|---|---|
-|  | NUS-WIDE | Image | - |
+| Type | Dataset | Modality | Link | Paper |
+|---|---|---|---| --- |
+|  | NUS-WIDE | Image | - | - |
+|  | FedAds | | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning (SIGIR'23) |
 
 
 
