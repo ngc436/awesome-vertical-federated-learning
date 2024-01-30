@@ -35,7 +35,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | C-VFL | NN | Split-based | Compressed-VFL: Communication-efficient learning with vertically partitioned data | 2022 | PMLR |
 | BlindFL | NN | Split-based | Vertical federated machine learning without peeking into your data | 2022 | SIGMOD |
 | FedOnce | NN | Split-based |  Practical vertical federated learning with unsupervised representation learning | 2022 | IEEE Transactions on Big Data |
-| SecureBoost | GBDT | Split-based |  Secureboost: A lossless federated learning framework | 2021 | IEEE Intelligent Systems |
+| SecureBoost | GBDT | Split-based |  [Secureboost: A lossless federated learning framework](https://www.computer.org/csdl/magazine/ex/2021/06/09440789/1tTpiuHh3zi) | 2021 | IEEE Intelligent Systems |
 
 
 
