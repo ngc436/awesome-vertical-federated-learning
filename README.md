@@ -32,7 +32,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 ### VFL benchmarks (benchmarks with VFL tasks)
 | Bench Type | Title | Year | Conference | Links | Description |
 |---|---|---|---|---|---|
-| VFL | VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks | 2024 | ICLR | --- | --- |
+| VFL | [VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks](https://openreview.net/pdf?id=glwwbaeKm2) | 2024 | ICLR | --- | --- |
 | VFL | VFLAIR: A Research Library and Benchmark for Vertical Federated Learning | 2024 | ICLR | [Code](https://github.com/flair-thu/vflair) | --- |
 | VFL | [FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning](https://arxiv.org/pdf/2305.08328.pdf) | 2023 | SIGIR | [Code](https://github.com/alibaba/Elastic-Federated-Learning-Solution/tree/FedAds) | --- |
 | General | The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems | 2022 | | [Code](https://github.com/Xtra-Computing/OARF?tab=readme-ov-file#the-oarf-benchmark-suite-characterization-and-implications-for-federated-learning-systems) | --- |
@@ -75,8 +75,9 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 ## VFL Datasets (or datasets that are used in benchmarks)
 | Type | Dataset | Modality | Link | Benchmark |
 |---|---|---|---| --- |
-|  | NUS-WIDE | Image | - | - |
-| VFL-native | FedAds | | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds |
+|  | NUS-WIDE | Image | - | VertiBench |
+| VFL-native | Vehicle  | Acoustic, Seismic | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#SensIT%20Vehicle%20(acoustic)) | VertiBench |
+| VFL-native | FedAds | Table | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds |
 | | MNIST | | |
 | | CIFAR10 | Image | | Learning multiple layers of features from tiny images |
 | | Breast histopathology images |  Image | [Link](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) | FedAds |
