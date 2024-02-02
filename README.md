@@ -88,6 +88,8 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | Centralized | MNIST | Image | [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00525/data.zip) | VertiBench, VFLAIR | - | 325,834 | 174 | 7 |
 | Centralized | CIFAR10 | Image | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/cifar10.bz2) | VertiBench, VFLAIR | - | 60,000 | 1,024 | 10 |
 | Centralized | CIFAR100 | Image | [Link](https://paperswithcode.com/dataset/cifar-100) | VFLAIR | - | 60,000 | 1,024 | 100 |
+| Centralized | Breast Cancer | Table | [Link](https://www.kaggle.com/datasets/mohaiminul101/wisconsin-diagnostic-breast-cancer-wdbc) | VFLAIR | - | 569 | 32 | 2 |
+| Centralized | Pima Indians Diabetes | Table | [Link](https://archive.ics.uci.edu/dataset/34/diabetes) | VFLAIR | - | 768 | 9 | 2 |
 | Centralized | Breast histopathology images | Image | [Link](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) | FedAds |
 | Centralized | Yahoo answers dataset | Text | [Link](https://www.kaggle.com/datasets/soumikrakshit/yahoo-answers-dataset) | FedAds |
 | Centralized | Give Me Some Credit | Tabilar | [link](https://www.kaggle.com/c/GiveMeSomeCredit) | FedAds |
