@@ -75,8 +75,8 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 ## VFL Datasets (or datasets that are used in benchmarks)
 | Type | Dataset | Modality | Link | Benchmark | # parties | # samples | # features | # classes |
 |---|---|---|---|---|---|---|---|---|
-| VFL-native | NUS-WIDE | Image | [Link](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html) | VertiBench, VFLAIR | 5 |
-| VFL-native | Vehicle  | Acoustic, Seismic | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#SensIT%20Vehicle%20(acoustic)) | VertiBench | 2 |
+| VFL-native | NUS-WIDE | Image | [Link](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html) | VertiBench, VFLAIR | 5 | 269,648 | 64 / 144 / 73 / 128 / 225 | 2 |
+| VFL-native | Vehicle  | Acoustic, Seismic | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#SensIT%20Vehicle%20(acoustic)) | VertiBench | 2 | 78,823 | 50 / 50 | 3 |
 | VFL-native | FedAds | Table | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds | 2 |
 | Centralized | covtype | Table | [Link](https://archive.ics.uci.edu/dataset/31/covertype) | VertiBench | - | 581,012 | 54 | 7 |
 | Centralized | msd | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/regression/YearPredictionMSD.bz2) | VertiBench | - | 463,715 | 90 | - |
