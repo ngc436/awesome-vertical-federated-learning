@@ -86,7 +86,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | Centralized | letter | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/letter.scale) | VertiBench | - | 15,000 | 16 | 26 |
 | Centralized | radar | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/letter.scale) | VertiBench | - | 15,000 | 16 | 26 |
 | Centralized | MNIST | Image | [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00525/data.zip) | VertiBench | - | 325,834 | 174 | 7 |
-| Centralized | CIFAR10 | Image | | Learning multiple layers of features from tiny images |
+| Centralized | CIFAR10 | Image | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/cifar10.bz2) | VertiBench | - | 60,000 | 1,024 | 10 |
 | Centralized | Breast histopathology images |  Image | [Link](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) | FedAds |
 | Centralized | Yahoo answers dataset | Text | [Link](https://www.kaggle.com/datasets/soumikrakshit/yahoo-answers-dataset) | FedAds |
 | Centralized | Give Me Some Credit | Tabilar | [link](https://www.kaggle.com/c/GiveMeSomeCredit) | FedAds |
