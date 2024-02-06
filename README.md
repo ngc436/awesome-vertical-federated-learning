@@ -33,7 +33,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | Bench Type | Title | Year | Conference | Code | Algorithms |
 |---|---|---|---|---|---|
 | VFL | [VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks](https://openreview.net/pdf?id=glwwbaeKm2) | 2024 | ICLR | --- | GAL, C-VFL, SecureBoost, Pivot, FedTree |
-| VFL | VFLAIR: A Research Library and Benchmark for Vertical Federated Learning | 2024 | ICLR | [Code](https://github.com/flair-thu/vflair) | --- |
+| VFL | [VFLAIR: A Research Library and Benchmark for Vertical Federated Learning](https://openreview.net/pdf/7f2ad39bcc9d504862486ba796e61502db9ed1dc.pdf) | 2024 | ICLR | [Code](https://github.com/flair-thu/vflair) | --- |
 | VFL | [FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning](https://arxiv.org/pdf/2305.08328.pdf) | 2023 | SIGIR | [Code](https://github.com/alibaba/Elastic-Federated-Learning-Solution/tree/FedAds) | --- |
 | General | The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems | 2022 | | [Code](https://github.com/Xtra-Computing/OARF?tab=readme-ov-file#the-oarf-benchmark-suite-characterization-and-implications-for-federated-learning-systems) | --- |
 | General | [Fedml: A research library and benchmark for federated machine learning](https://arxiv.org/abs/2007.13518) | 2020 | arxiv | [Code](https://github.com/FedML-AI/FedML/) | 
@@ -75,21 +75,27 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 ## VFL Datasets (or datasets that are used in benchmarks)
 | Type | Dataset | Modality | Link | Benchmark | # parties | # samples | # features | # classes |
 |---|---|---|---|---|---|---|---|---|
-| VFL-native | NUS-WIDE | Image | [Link](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html) | VertiBench | 5 |
-| VFL-native | Vehicle  | Acoustic, Seismic | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#SensIT%20Vehicle%20(acoustic)) | VertiBench | 2 |
-| VFL-native | FedAds | Table | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds | 2 |
+| VFL-native | NUS-WIDE | Image | [Link](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html) | VertiBench, VFLAIR | 5 | 269,648 | 64 / 144 / 73 / 128 / 225 | 2 |
+| VFL-native | Vehicle  | Acoustic, Seismic | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#SensIT%20Vehicle%20(acoustic)) | VertiBench | 2 | 78,823 | 50 / 50 | 3 |
+| VFL-native | FedAds | Table | [Link](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md) | FedAds | 2 | 11,300,000 | 16 / 7 | - |
 | Centralized | covtype | Table | [Link](https://archive.ics.uci.edu/dataset/31/covertype) | VertiBench | - | 581,012 | 54 | 7 |
 | Centralized | msd | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/regression/YearPredictionMSD.bz2) | VertiBench | - | 463,715 | 90 | - |
 | Centralized | realsim  | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/real-sim.bz2) | VertiBench | - | 72,309 | 20,958 | 2 |
 | Centralized | gisette | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/gisette_scale.bz2) | VertiBench | - | 60,000 | 5,000 | 2 |
-| Centralized | epsilon | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/epsilon_normalized.bz2) | VertiBench | - | 400,000 | 2,000 | 2 |
+| Centralized | epsilon | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/epsilon_normalized.bz2) | VertiBench, FedAds | - | 400,000 | 2,000 | 2 |
 | Centralized | letter | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/letter.scale) | VertiBench | - | 15,000 | 16 | 26 |
 | Centralized | radar | Table | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/letter.scale) | VertiBench | - | 15,000 | 16 | 26 |
-| Centralized | MNIST | Image | [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00525/data.zip) | VertiBench | - | 325,834 | 174 | 7 |
-| Centralized | CIFAR10 | Image | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/cifar10.bz2) | VertiBench | - | 60,000 | 1,024 | 10 |
-| Centralized | Breast histopathology images |  Image | [Link](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) | FedAds |
+| Centralized | MNIST | Image | [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00525/data.zip) | VertiBench, VFLAIR | - | 325,834 | 174 | 7 |
+| Centralized | CIFAR10 | Image | [Link](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/cifar10.bz2) | VertiBench, VFLAIR | - | 60,000 | 1,024 | 10 |
+| Centralized | CIFAR100 | Image | [Link](https://paperswithcode.com/dataset/cifar-100) | VFLAIR | - | 60,000 | 1,024 | 100 |
+| Centralized | Breast Cancer | Table | [Link](https://www.kaggle.com/datasets/mohaiminul101/wisconsin-diagnostic-breast-cancer-wdbc) | VFLAIR | - | 569 | 32 | 2 |
+| Centralized | Pima Indians Diabetes | Table | [Link](https://archive.ics.uci.edu/dataset/34/diabetes) | VFLAIR | - | 768 | 9 | 2 |
+| Centralized | Breast histopathology images | Image | [Link](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) | FedAds |
 | Centralized | Yahoo answers dataset | Text | [Link](https://www.kaggle.com/datasets/soumikrakshit/yahoo-answers-dataset) | FedAds |
 | Centralized | Give Me Some Credit | Tabilar | [link](https://www.kaggle.com/c/GiveMeSomeCredit) | FedAds |
+| Centralized | Avazu | Tabilar | [link](https://www.kaggle.com/c/avazu-ctr-prediction) | FedAds | - | 45,006,432 | 23 | 2 | 
+
+Avazu
 
 
 
