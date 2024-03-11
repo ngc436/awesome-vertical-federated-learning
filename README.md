@@ -35,7 +35,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | VFL | [VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks](https://openreview.net/pdf?id=glwwbaeKm2) | 2024 | ICLR | --- | GAL, C-VFL, SecureBoost, Pivot, FedTree |
 | VFL | [VFLAIR: A Research Library and Benchmark for Vertical Federated Learning](https://openreview.net/pdf/7f2ad39bcc9d504862486ba796e61502db9ed1dc.pdf) | 2024 | ICLR | [Code](https://github.com/flair-thu/vflair) | --- |
 | VFL | [FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning](https://arxiv.org/pdf/2305.08328.pdf) | 2023 | SIGIR | [Code](https://github.com/alibaba/Elastic-Federated-Learning-Solution/tree/FedAds) | --- |
-| General | The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems | 2022 | | [Code](https://github.com/Xtra-Computing/OARF?tab=readme-ov-file#the-oarf-benchmark-suite-characterization-and-implications-for-federated-learning-systems) | --- |
+| General | [The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://dl.acm.org/doi/full/10.1145/3510540) | 2022 | ACM Transactions on Intelligent Systems and Technology | [Code](https://github.com/Xtra-Computing/OARF?tab=readme-ov-file#the-oarf-benchmark-suite-characterization-and-implications-for-federated-learning-systems) | --- |
 | General | [Fedml: A research library and benchmark for federated machine learning](https://arxiv.org/abs/2007.13518) | 2020 | arxiv | [Code](https://github.com/FedML-AI/FedML/) | 
 
 <a name="vfl-algo"></a>
@@ -95,9 +95,6 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 | Centralized | Give Me Some Credit | Tabilar | [link](https://www.kaggle.com/c/GiveMeSomeCredit) | FedAds |
 | Centralized | Avazu | Tabilar | [link](https://www.kaggle.com/c/avazu-ctr-prediction) | FedAds | - | 45,006,432 | 23 | 2 | 
 
-Avazu
-
-
 
 
 <a name="frameworks-and-libraries"></a>
@@ -106,6 +103,10 @@ Avazu
 <a name="fate"></a>
 #### FATE
 * FATE description
+
+<a name="fedml"></a>
+### FedML
+Implements a bunch of practical algorithms in horizontal and vertical FL settings 
 
 <a name="falcon"></a>
 #### Falcon
