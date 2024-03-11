@@ -13,10 +13,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 - [Frameworks and Libraries with VFL support](#frameworks-and-libraries)
   - [FATE](#fate)
   - [FedML](#fedml)
-  - [Fedlearner](#fedlearner)
-  - [FederatedScope](#federatedscope)
   - [Falcon](#falcon)
-  - [PyVertical](#pyvertical)
 
 <a name="top-tier-conf"></a>
 ## Publications in Top-tier Conferences (or influential)
