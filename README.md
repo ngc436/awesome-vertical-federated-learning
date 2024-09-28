@@ -101,6 +101,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 <a name="fate"></a>
 #### FATE
 [github](https://github.com/FederatedAI/FATE) [paper](https://dl.acm.org/doi/pdf/10.5555/3546258.3546484)
+
 VFL-related (hetero in FATE terminology) features:
 * privacy-preserving strategies: SSHE and FedPass
 
