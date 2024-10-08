@@ -29,7 +29,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 ### VFL benchmarks (benchmarks with VFL tasks)
 | Bench Type | Title | Year | Conference | Code | Algorithms |
 |---|---|---|---|---|---|
-| VFL | [Stalactite: Toolbox for Fast Prototyping of Vertical Federated Learning Systems](https://arxiv.org/abs/2409.15558) | 2024 | RecSys | Code TBA | --- |
+| VFL | [Stalactite: Toolbox for Fast Prototyping of Vertical Federated Learning Systems]((https://dl.acm.org/doi/pdf/10.1145/3640457.3691700) | 2024 | RecSys | Code TBA | --- |
 | VFL | [VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks](https://openreview.net/pdf?id=glwwbaeKm2) | 2024 | ICLR | [Code](https://github.com/Xtra-Computing/VertiBench) [Website](http://vertibench.xtra.science) | [GAL](https://openreview.net/forum?id=MT1GId7fJiP&noteId=Dl2kGghM_tQ), [C-VFL](https://arxiv.org/abs/2206.08330), SecureBoost, Pivot, [FedTree](https://github.com/Xtra-Computing/FedTree), [FedOnce](https://github.com/JerryLife/FedOnce) |
 | VFL | [VFLAIR: A Research Library and Benchmark for Vertical Federated Learning](https://openreview.net/pdf/7f2ad39bcc9d504862486ba796e61502db9ed1dc.pdf) | 2024 | ICLR | [Code](https://github.com/flair-thu/vflair) | --- |
 | VFL | [FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning](https://arxiv.org/pdf/2305.08328.pdf) | 2023 | SIGIR | [Code](https://github.com/alibaba/Elastic-Federated-Learning-Solution/tree/FedAds) | --- |
