@@ -40,6 +40,7 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 ### VFL algorithms
 | Algorithm | Model | Category | Title | Code | Year | Conference / Journal |
 |---|---|---|---|---|---|---|
+| FeT | NN | Split-based | [Federated Transformer: Multi-Party Vertical Federated Learning on Practical Fuzzily Linked Data](https://nips.cc/virtual/2024/poster/95945) | [Code](https://github.com/Xtra-Computing/FeT) | 2024 | Neurips |
 | AL | Any | Ensemble-based | [Assisted learning: A framework for multiorganization learning](https://proceedings.neurips.cc/paper/2020/file/a7b23e6eefbe6cf04b8e62a6f0915550-Paper.pdf) | - | 2020 | Neurips |
 | GAL | Any | Ensemble-based | [Gal: Gradient assisted learning for decentralized multi-organization collaborations](https://proceedings.neurips.cc/paper_files/paper/2022/file/4d6938f94ab47d32128c239a4bfedae0-Paper-Conference.pdf) | [Code](https://github.com/diaoenmao/GAL-Gradient-Assisted-Learning-for-Decentralized-Multi-Organization-Collaborations) | 2022 | Neurips |
 | SplitNN | NN | Split-based | [Split learning for health: Distributed deep learning without sharing raw patient data](https://arxiv.org/abs/1812.00564) | - | 2018 | Arxiv |
