@@ -106,10 +106,13 @@ A curated list of advancements in Vertical Federated Learning (VFL), frameworks 
 
 VFL-related (hetero in FATE terminology) features:
 * privacy-preserving strategies: SSHE and FedPass
+* hetero-nn framework 
 
 <a name="Stalactite"></a>
 #### Stalactite
 [paper](https://arxiv.org/abs/2409.15558)
+
+Framework is devoted to make development of VFL systems easier, while providing a real-world settings.
 
 <a name="fedml"></a>
 ### FedML
