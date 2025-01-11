@@ -120,4 +120,7 @@ Implements a bunch of practical algorithms in horizontal and vertical FL setting
 
 <a name="falcon"></a>
 #### Falcon
-https://github.com/nusdbsystem/falcon
+[github](https://github.com/nusdbsystem/falcon)
+
+* logistic regression, mlp and tree algorithms are supported
+
