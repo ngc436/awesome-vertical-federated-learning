@@ -110,13 +110,13 @@ VFL-related (hetero in FATE terminology) features:
 
 <a name="Stalactite"></a>
 #### Stalactite
-[paper](https://arxiv.org/abs/2409.15558)
+[github](https://github.com/sb-ai-lab/Stalactite) [paper](https://arxiv.org/abs/2409.15558)
 
 Framework is devoted to make development of VFL systems easier, while providing a real-world settings.
 
 <a name="fedml"></a>
 ### FedML
-Implements a bunch of practical algorithms in horizontal and vertical FL settings 
+Implements a bunch of practical algorithms in vertical FL settings with homomorphic encryption
 
 <a name="falcon"></a>
 #### Falcon
