@@ -119,12 +119,34 @@ VFL-related (hetero in FATE terminology) features:
 Framework is devoted to make development of VFL systems easier, while providing a real-world settings.
 
 <a name="fedml"></a>
-### FedML
+#### FedML
 Implements a bunch of practical algorithms in vertical FL settings with homomorphic encryption
 
 <a name="falcon"></a>
 #### Falcon
 [github](https://github.com/nusdbsystem/falcon)
-
 * logistic regression, mlp and tree algorithms are supported
 
+<a name="pyvertical"></a>
+#### PyVertical
+[github](https://github.com/OpenMined/PyVertical)  
+Key VFL features:  
+* PSI-based encrypted data alignment  
+* Multi-headed SplitNN architecture  
+* Synthetic data support for privacy-sensitive domains  
+
+<a name="flower-vfl"></a>
+#### Flower-VFL
+[docs](https://flower.ai/docs/examples/vertical-fl.html)  
+Key VFL features:  
+* Client-server label partitioning  
+* Real-world deployment API  
+* Docker-compatible vertical split learning  
+
+<a name="vflair"></a>
+#### VFLAIR
+[github](https://github.com/flair-thu/vflair) [paper](https://openreview.net/pdf/7f2ad39bcc9d504862486ba796e61502db9ed1dc.pdf)  
+Key VFL features:  
+* Modular client-server architecture  
+* Cross-platform compatibility (Linux/macOS)  
+* Benchmarking suite for VFL algorithms
